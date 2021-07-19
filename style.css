@@ -1,0 +1,106 @@
+.body {
+    margin: 0;
+    overflow: auto;
+}
+
+.row{
+    height: 200rem;
+    padding-left: 2rem;
+ 
+}
+
+.spacer2{
+    margin-top: 3rem;   
+}
+
+.fa-user-circle{
+    margin-left: 1rem;
+}
+
+h6{
+    margin-top: .7rem;
+    margin-left: .5rem;
+    font-size: .6rem;
+}
+
+.btn-warning{
+    margin-left: 1rem;
+    width: 80%;
+    height: 2rem;
+    font-size: .85rem;
+}
+
+.nav-link{
+    color: white;
+}
+
+.list-group-item{
+    color: rgb(219, 211, 211);
+    font-size: .55rem;
+    margin-bottom: 3rem;
+}
+
+.card-body{
+    margin-inline-end: auto;
+    background-color: white;
+    height: 4rem;
+    border-style: solid gray .6rem;
+}
+
+.Format{
+    margin-top: 3rem;
+    font-size: .5rem;
+    margin-bottom: 1rem;
+    
+}
+
+.FormatLinked{
+    margin-top: 3rem;
+    font-size: .55rem;
+    margin-bottom: 2rem;
+    margin-right: 1rem; 
+    margin-left: 1rem;
+}
+
+.card{
+    height: 4rem;
+}
+    
+p{
+    color: gray;
+    margin-bottom: 0rem;
+}  
+
+
+h4{
+    margin-bottom: 2rem;
+}
+
+
+.card-2{
+    height: 10rem;
+    margin-bottom: 0rem;
+}
+
+
+.card-body-2{
+    margin-inline-end: auto;
+    background-color: white;
+    width: 100%;
+}
+.btn-outline-warning{
+    margin-top: 4rem;
+    margin-right: .5rem;
+}
+.fa-paperclip{
+    font-size: 1rem;
+}
+
+.last-column{
+    padding-right: 3rem;
+}
+
+.box-icons{
+  padding-bottom: 6rem;
+   
+}
